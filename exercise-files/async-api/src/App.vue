@@ -15,6 +15,9 @@ import AppNav from './components/AppNav'
 export default {
   components: {
     AppNav
+  },
+  created () {
+    this.$store.dispatch('fetchProducts')
   }
 }
 </script>

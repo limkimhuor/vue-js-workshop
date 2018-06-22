@@ -14,6 +14,7 @@
     "bootstrap": "^4.0.0-beta",
     "uuid": "^3.1.0",
     "vue": "^2.3.3",
+    "vue-resource": "^1.5.1",
     "vue-router": "^2.6.0",
     "vuex": "^2.3.1"
   },
